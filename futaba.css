@@ -52,7 +52,9 @@ th {
     		border: 1px solid #000;
 }
 .posts {
-    background: #D6D6F6;
+word-wrap: break-word;
+word-break: break-all;
+background: #D6D6F6;
 }
 textarea {
     width:320px;
